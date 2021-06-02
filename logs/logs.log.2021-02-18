@@ -1,0 +1,68 @@
+2021-02-18 17:19:53,696-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-18 17:19:53,702-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-18 17:19:59,712-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - http://uat-shop.gtedu.com/#/login
+2021-02-18 17:20:01,477-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(26) - 成功打开网址
+2021-02-18 17:20:10,686-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(25) - 切换语言成功
+2021-02-18 17:20:13,734-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(34) - 切换繁体成功
+2021-02-18 17:20:16,794-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-18 17:20:16,794-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-18 17:20:21,928-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(65) - 填写手机号成功
+2021-02-18 17:20:21,928-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-18 17:20:25,050-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(75) - 设置密码成功
+2021-02-18 17:20:28,125-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(88) - 点击登录成功
+2021-02-18 17:20:31,183-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(17) - 点击左侧商品管理执行成功
+2021-02-18 17:20:34,247-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(26) - 点击左侧商品上架执行成功
+2021-02-18 17:20:37,297-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Livebroadcast(15) - 点击直播执行成功
+2021-02-18 17:20:40,322-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Livebroadcast(15) - 点击直播执行成功
+2021-02-18 17:20:43,382-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(50) - 点击下一步执行成功
+2021-02-18 17:20:46,557-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.Goodsname(15) - 输入直播商品名称成功
+2021-02-18 17:20:58,839-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.Goodstype(29) - 选择直播商品类型成功
+2021-02-18 17:21:04,953-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.Goodsprice(39) - 输入商品单价成功
+2021-02-18 17:21:11,068-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.Goodsstock(49) - 输入商品库存成功
+2021-02-18 17:21:14,126-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.Goodsrecommend(59) - 推荐到机构首页选择成功
+2021-02-18 17:21:17,177-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.Goodslanguages(69) - 选择授课语种成功
+2021-02-18 17:21:20,233-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.Goodscrowd(80) - 选择适应人群成功
+2021-02-18 17:21:23,284-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.Goodspattern(91) - 选择上课模式成功
+2021-02-18 17:21:26,395-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.LiveOnenext(101) - 点击直播第一步到下一步成功
+2021-02-18 17:56:11,863-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-18 17:56:11,867-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-18 17:56:17,873-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - http://uat-shop.gtedu.com/#/login
+2021-02-18 17:56:19,231-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(26) - 成功打开网址
+2021-02-18 17:56:28,455-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(25) - 切换语言成功
+2021-02-18 17:56:31,507-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(34) - 切换繁体成功
+2021-02-18 17:56:34,560-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-18 17:56:34,560-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-18 17:56:39,705-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(65) - 填写手机号成功
+2021-02-18 17:56:39,705-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-18 17:56:42,830-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(75) - 设置密码成功
+2021-02-18 17:56:45,906-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(88) - 点击登录成功
+2021-02-18 17:56:48,956-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(17) - 点击左侧商品管理执行成功
+2021-02-18 17:56:52,028-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(26) - 点击左侧商品上架执行成功
+2021-02-18 17:56:55,075-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Livebroadcast(15) - 点击直播执行成功
+2021-02-18 17:56:58,102-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Livebroadcast(15) - 点击直播执行成功
+2021-02-18 17:57:01,165-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(50) - 点击下一步执行成功
+2021-02-18 17:57:04,327-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.Goodsname(15) - 输入直播商品名称成功
+2021-02-18 17:57:16,606-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.Goodstype(29) - 选择直播商品类型成功
+2021-02-18 17:57:22,712-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.Goodsprice(39) - 输入商品单价成功
+2021-02-18 17:57:28,827-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.Goodsstock(49) - 输入商品库存成功
+2021-02-18 17:57:31,892-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.Goodsrecommend(59) - 推荐到机构首页选择成功
+2021-02-18 17:57:34,941-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.Goodslanguages(69) - 选择授课语种成功
+2021-02-18 17:57:37,996-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.Goodscrowd(80) - 选择适应人群成功
+2021-02-18 17:57:41,045-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.Goodspattern(91) - 选择上课模式成功
+2021-02-18 17:57:44,168-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveOnePage.LiveOnenext(101) - 点击直播第一步到下一步成功
+2021-02-18 18:07:14,973-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-18 18:07:14,975-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-18 18:07:20,981-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - http://uat-shop.gtedu.com/#/login
+2021-02-18 18:07:22,355-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(28) - 成功打开网址
+2021-02-18 18:07:55,606-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-18 18:07:55,608-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-18 18:08:02,242-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(28) - 成功打开网址
+2021-02-18 18:11:35,156-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-18 18:11:35,159-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-18 18:11:41,715-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(28) - 成功打开网址
+2021-02-18 18:13:51,757-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-18 18:13:51,759-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-18 18:13:58,680-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(28) - 成功打开网址
+2021-02-18 18:15:09,934-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-18 18:15:09,938-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-18 18:15:17,359-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(28) - 成功打开网址

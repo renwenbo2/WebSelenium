@@ -1,0 +1,430 @@
+2021-02-24 15:26:11,955-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 15:26:11,958-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 15:26:17,971-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - http://uat-shop.gtedu.com/#/login
+2021-02-24 15:26:18,253-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(34) - 打开谷歌浏览器出现错误org.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=88.0.4324.182)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 279 milliseconds
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: f2517e23c15b6cdcf906dfd62df44cbb
+2021-02-24 15:32:34,703-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 15:32:34,705-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 15:32:40,711-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 15:32:41,634-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 15:32:50,830-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 15:32:53,899-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 15:32:56,947-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 15:32:56,947-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 15:33:02,056-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 15:33:02,056-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 15:33:05,166-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 15:33:08,222-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 15:33:11,269-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-02-24 15:33:14,321-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-02-24 15:33:17,361-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-02-24 15:33:20,408-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-02-24 15:38:30,735-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 15:38:30,739-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 15:38:36,744-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 15:38:38,659-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 15:38:47,841-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 15:38:50,913-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 15:38:53,960-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 15:38:53,961-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 15:38:59,083-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 15:38:59,083-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 15:39:02,192-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 15:39:05,246-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 15:39:08,295-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-02-24 15:39:11,355-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-02-24 15:39:14,403-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-02-24 15:39:17,444-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-02-24 15:39:20,544-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_Volunteer(26) - 选择成为志愿者成功
+2021-02-24 15:39:20,544-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - ceshizixunshi1
+2021-02-24 15:39:23,747-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_Name(43) - 输入咨询师名称成功
+2021-02-24 15:39:30,136-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.SystemPicture(21) - 选择系统图片成功
+2021-02-24 15:39:33,150-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.Tailoring(35) - 点击剪裁弹窗上的确定按钮失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[3]/div[5]/div/div[1]/div/div/div/div/div[2]/div[2]/div/form/div[1]/div/div/div[2]/div/div[2]/div[2]/button[2]"}
+  (Session info: chrome=88.0.4324.182)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 4bbf3d92d85674cab62f4d18d150247d
+2021-02-24 15:39:36,151-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_PhotoOne(63) - 点击第一个咨询师上传照片框成功
+2021-02-24 15:42:27,979-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 15:42:27,980-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 15:42:33,986-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 15:42:35,056-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 15:42:44,242-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 15:42:47,322-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 15:42:50,370-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 15:42:50,370-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 15:42:55,478-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 15:42:55,478-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 15:42:58,586-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 15:43:01,646-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 15:43:04,699-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-02-24 15:43:07,751-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-02-24 15:43:10,793-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-02-24 15:43:13,839-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-02-24 15:43:16,937-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_Volunteer(26) - 选择成为志愿者成功
+2021-02-24 15:43:16,937-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - ceshizixunshi1
+2021-02-24 15:43:20,139-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_Name(43) - 输入咨询师名称成功
+2021-02-24 15:43:26,387-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.SystemPicture(21) - 选择系统图片成功
+2021-02-24 15:43:29,402-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.Tailoring(35) - 点击剪裁弹窗上的确定按钮失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[3]/div[5]/div/div[1]/div/div/div/div/div[2]/div[2]/div/form/div[1]/div/div/div[2]/div/div[2]/div[2]/button[2]"}
+  (Session info: chrome=88.0.4324.182)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: c419ecce04c754c05fbe0e2d3c34ea20
+2021-02-24 15:43:32,403-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_PhotoOne(63) - 点击第一个咨询师上传照片框成功
+2021-02-24 15:46:46,105-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 15:46:46,107-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 15:46:52,111-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 15:46:53,548-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 15:47:02,730-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 15:47:05,801-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 15:47:08,848-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 15:47:08,848-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 15:47:13,960-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 15:47:13,960-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 15:47:17,072-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 15:47:20,129-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 15:47:23,175-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-02-24 15:47:26,236-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-02-24 15:47:29,278-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-02-24 15:47:32,324-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-02-24 15:47:35,431-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_Volunteer(26) - 选择成为志愿者成功
+2021-02-24 15:47:35,431-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - ceshizixunshi1
+2021-02-24 15:47:38,667-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_Name(43) - 输入咨询师名称成功
+2021-02-24 15:47:44,716-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.SystemPicture(21) - 选择系统图片成功
+2021-02-24 15:47:50,759-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_PhotoOne(63) - 点击第一个咨询师上传照片框成功
+2021-02-24 15:47:56,808-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.SystemPicture(21) - 选择系统图片成功
+2021-02-24 15:48:02,851-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_PhotoTwo(83) - 点击第二个咨询师上传照片框成功
+2021-02-24 15:48:02,851-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - woshiyigezixunshi
+2021-02-24 15:48:06,082-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_Introduce(100) - 输入咨询师简介成功
+2021-02-24 15:48:09,143-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_Category(116) - 选择咨询师擅长咨询类别成功
+2021-02-24 15:48:09,143-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zhuanyelingyu
+2021-02-24 15:48:15,360-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_Major(135) - 输入咨询师专业领域成功
+2021-02-24 15:48:15,360-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - jiaoyujingli
+2021-02-24 15:48:18,540-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_Education(152) - 输入咨询师教育经历成功
+2021-02-24 15:48:18,540-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - gongzuojingli
+2021-02-24 15:48:21,709-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_Work(169) - 输入咨询师教育经历成功
+2021-02-24 15:48:30,925-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_Certificate(189) - 点击添加持有证书成功
+2021-02-24 15:48:30,925-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - ziwojieshao
+2021-02-24 15:48:34,008-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_Self_Introduce(205) - 输入自我介绍成功
+2021-02-24 15:48:37,099-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_NextStep(221) - 点击下一步成功
+2021-02-24 15:48:40,154-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantTimePage.ConsultantAddTime(18) - 点击新增咨询时间成功
+2021-02-24 15:48:43,236-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantTimePage.ConsultantChooseTime(34) - 点击选择咨询时间框成功
+2021-02-24 16:12:41,654-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 16:12:41,656-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 16:12:47,662-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 16:12:48,847-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 16:12:58,050-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 16:13:01,124-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 16:13:04,176-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 16:13:04,176-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 16:13:09,293-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 16:13:09,293-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 16:13:12,404-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 16:13:15,461-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 16:13:18,506-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-02-24 16:13:21,558-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-02-24 16:13:24,599-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-02-24 16:13:27,644-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-02-24 16:17:07,964-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 16:17:07,966-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 16:17:13,972-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 16:17:15,052-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 16:17:24,235-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 16:17:27,309-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 16:17:30,354-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 16:17:30,354-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 16:17:35,462-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 16:17:35,462-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 16:17:38,575-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 16:17:41,633-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 16:17:44,679-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-02-24 16:17:47,729-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-02-24 16:17:50,771-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-02-24 16:17:53,817-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-02-24 16:29:19,455-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 16:29:19,458-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 16:29:25,466-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 16:29:26,676-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 16:29:35,874-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 16:29:38,946-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 16:29:41,992-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 16:29:41,992-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 16:29:47,105-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 16:29:47,105-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 16:29:50,219-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 16:29:53,275-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 16:29:56,332-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-02-24 16:29:59,383-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-02-24 16:30:02,424-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-02-24 16:30:05,469-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-02-24 16:30:49,740-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 16:30:49,742-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 16:31:12,739-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 16:31:12,741-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 16:31:18,749-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 16:31:20,617-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 16:31:29,819-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 16:31:32,888-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 16:31:35,935-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 16:31:35,935-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 16:31:41,036-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 16:31:41,036-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 16:31:44,124-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 16:31:47,175-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 16:31:57,223-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(20) - 点击左侧商品管理执行失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="public-main"]/div[3]/div[1]/ul/li[1]/div"}
+  (Session info: chrome=88.0.4324.182)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 6b008ab78778db455763926d350ab02e
+2021-02-24 16:32:07,268-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(48) - 点击左侧商品上架执行失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="public-main"]/div[3]/div[1]/ul/li[1]/ul/li[2]"}
+  (Session info: chrome=88.0.4324.182)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 6b008ab78778db455763926d350ab02e
+2021-02-24 16:32:17,281-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(57) - 点击咨询执行失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="chooseClass "]/div[2]/div/label[4]"}
+  (Session info: chrome=88.0.4324.182)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 6b008ab78778db455763926d350ab02e
+2021-02-24 16:32:27,323-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(69) - 点击下一步执行失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="chooseClass "]/div[3]/button"}
+  (Session info: chrome=88.0.4324.182)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 6b008ab78778db455763926d350ab02e
+2021-02-24 16:33:20,109-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 16:33:20,112-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 16:33:26,118-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 16:33:27,114-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 16:33:36,304-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 16:33:39,377-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 16:33:42,429-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 16:33:42,429-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 16:33:47,538-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 16:33:47,538-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 16:33:50,649-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 16:33:53,702-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 16:33:56,747-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-02-24 16:33:59,812-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-02-24 16:34:02,854-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-02-24 16:34:05,897-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-02-24 16:34:05,897-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - //*[@id="iframe-box"]/div[1]/div/div/form/div[1]/div/label[1]/span[1]/span
+2021-02-24 16:35:46,048-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 16:35:46,049-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 16:35:52,054-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 16:35:53,126-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 16:36:02,318-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 16:36:05,393-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 16:36:08,443-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 16:36:08,443-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 16:36:13,554-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 16:36:13,554-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 16:36:16,667-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 16:36:19,721-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 16:36:22,768-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-02-24 16:36:25,828-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-02-24 16:36:28,869-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-02-24 16:36:31,914-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-02-24 16:36:31,914-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - //*[@id="iframe-box"]/div[1]/div/div/form/div[1]/div/label[1]/span[1]/span
+2021-02-24 16:41:47,577-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 16:41:47,579-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 16:41:53,584-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 16:41:54,767-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 16:42:03,964-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 16:42:07,036-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 16:42:10,084-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 16:42:10,084-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 16:42:15,205-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 16:42:15,205-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 16:42:18,310-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 16:42:21,362-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 16:42:24,406-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-02-24 16:42:27,485-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-02-24 16:42:30,531-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-02-24 16:42:33,575-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-02-24 16:42:33,575-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - //*[@id="iframe-box"]/div[1]/div/div/form/div[1]/div/label[1]/span[1]/span
+2021-02-24 16:44:44,811-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 16:44:44,812-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 16:44:59,433-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 16:44:59,435-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 16:45:05,441-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 16:45:08,922-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 16:45:18,103-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 16:45:21,195-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 16:45:24,314-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 16:45:24,314-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 16:45:29,412-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 16:45:29,412-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 16:45:32,498-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 16:45:35,556-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 16:45:38,600-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-02-24 16:45:41,650-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-02-24 16:45:44,693-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-02-24 16:45:47,736-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-02-24 16:45:47,736-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - //*[@id="iframe-box"]/div[1]/div/div/form/div[1]/div/label[1]/span[1]/span
+2021-02-24 16:47:36,896-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 16:47:36,898-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 16:47:42,903-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 16:47:44,189-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 16:47:53,485-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 16:47:56,558-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 16:47:59,608-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 16:47:59,608-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 16:48:04,732-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 16:48:04,732-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 16:48:07,810-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 16:48:10,868-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 16:48:13,920-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-02-24 16:48:16,986-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-02-24 16:48:20,027-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-02-24 16:48:23,071-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-02-24 16:48:23,071-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - //*[@id="iframe-box"]/div[1]/div/div/form/div[1]/div/label[1]/span[1]/span
+2021-02-24 16:52:57,570-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 16:52:57,571-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 16:53:03,576-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 16:53:04,982-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 16:53:14,172-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 16:53:17,241-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 16:53:20,289-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 16:53:20,289-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 16:53:25,402-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 16:53:25,402-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 16:53:28,511-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 16:53:31,566-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 16:53:34,612-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-02-24 16:53:37,671-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-02-24 16:53:40,711-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-02-24 16:53:43,753-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-02-24 16:53:43,753-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - //*[@id="iframe-box"]/div[1]/div/div/form/div[1]/div/label[1]/span[1]/span
+2021-02-24 16:54:28,165-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 16:54:28,167-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 16:54:34,173-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 16:54:35,855-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 16:54:45,184-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 16:54:48,259-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 16:54:51,308-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 16:54:51,308-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 16:54:56,410-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 16:54:56,410-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 16:54:59,568-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 16:55:02,625-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 16:55:05,674-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-02-24 16:55:08,729-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-02-24 16:55:11,788-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-02-24 16:55:14,837-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-02-24 16:55:14,838-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - //*[@id="iframe-box"]/div[1]/div/div/form/div[1]/div/label[1]/span[1]/span
+2021-02-24 16:55:27,885-[SeleniumAutoFile] INFO [main] com.business.Hyj_ConsultantlnformationBusiness.ConsultantInformation(22) - false
+2021-02-24 16:55:27,885-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - //*[@id="iframe-box"]/div[1]/div/div/form/div[1]/div/label[1]/span[1]/span
+2021-02-24 16:55:40,938-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zixunceshi001
+2021-02-24 16:55:44,042-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsName(22) - 输入咨询商品名称成功
+2021-02-24 16:55:44,042-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 1
+2021-02-24 16:56:38,111-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 16:56:38,113-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 16:56:44,118-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 16:56:45,489-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 16:56:54,678-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 16:56:57,752-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 16:57:00,802-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 16:57:00,802-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 16:57:05,938-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 16:57:05,938-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 16:57:09,071-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 16:57:12,128-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 16:57:15,175-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-02-24 16:57:18,224-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-02-24 16:57:21,266-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-02-24 16:57:24,311-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-02-24 16:57:24,312-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - //*[@id="iframe-box"]/div[1]/div/div/form/div[1]/div/label[1]/span[1]/span
+2021-02-24 16:57:37,334-[SeleniumAutoFile] INFO [main] com.business.Hyj_ConsultantlnformationBusiness.ConsultantInformation(23) - false
+2021-02-24 16:57:37,334-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - //*[@id="iframe-box"]/div[1]/div/div/form/div[1]/div/label[1]/span[1]/span
+2021-02-24 16:57:50,384-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zixunceshi001
+2021-02-24 16:57:53,485-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsName(22) - 输入咨询商品名称成功
+2021-02-24 16:57:53,485-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 1
+2021-02-24 17:50:13,675-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-02-24 17:50:13,677-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-02-24 17:50:19,684-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://uat-shop.huanyujun.com/#/login
+2021-02-24 17:50:21,268-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-02-24 17:50:30,448-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(30) - 登录页面切换语言成功
+2021-02-24 17:50:33,520-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(44) - 登录页面切换繁体成功
+2021-02-24 17:50:36,567-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-02-24 17:50:36,567-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0922211535
+2021-02-24 17:50:41,693-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-02-24 17:50:41,693-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-02-24 17:50:44,803-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-02-24 17:50:47,855-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-02-24 17:50:50,924-[SeleniumAutoFile] INFO [main] com.page.uppermenu.Hyj_UpperMenuPage.UpperCurrency(44) - 点击上方导航菜单通用管理执行成功
+2021-02-24 17:50:53,975-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.shopMenu(59) - 点击通用管理-店铺管理执行成功
+2021-02-24 17:50:57,023-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.shopConsultantMenu(72) - 点击通用管理-店铺管理-咨询师信息执行成功
+2021-02-24 17:51:00,099-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.Consultant_Edit(19) - 点击编辑成功
+2021-02-24 17:51:03,164-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantInformationPage.ConsultantService_Time(191) - 点击设置服务时间成功
+2021-02-24 17:51:06,220-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantTimePage.ConsultantAddTime(18) - 点击新增咨询时间成功
+2021-02-24 17:51:09,308-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantTimePage.ConsultantChooseTime(34) - 点击选择咨询时间框成功
+2021-02-24 17:51:15,410-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantTimePage.ConsultantSelectDate(52) - 点击选择咨询开始结束日期成功
+2021-02-24 17:51:18,452-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantTimePage.ConsultantClickTime(68) - 点击选择咨询开始结束日期成功
+2021-02-24 17:51:24,541-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantTimePage.ConsultantSelectTime(86) - 点击选择咨询开始结束日期成功
+2021-02-24 17:51:27,594-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantTimePage.ConsultantPreservation(102) - 点击保存按钮成功
+2021-02-24 17:51:30,772-[SeleniumAutoFile] INFO [main] com.page.consultant.ConsultantTimePage.ConsultantReturn(118) - 点击返回按钮成功
+2021-02-24 17:51:40,821-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsList(34) - 点击左侧商品列表执行失败org.openqa.selenium.ElementNotVisibleException: element not interactable
+  (Session info: chrome=88.0.4324.182)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 2fa1787ce5e671ea6279b41dfb4f422f
+2021-02-24 17:51:50,827-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(48) - 点击左侧商品上架执行失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="public-main"]/div[3]/div[1]/ul/li[1]/ul/li[2]"}
+  (Session info: chrome=88.0.4324.182)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 2fa1787ce5e671ea6279b41dfb4f422f
+2021-02-24 17:52:00,862-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(57) - 点击咨询执行失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="chooseClass "]/div[2]/div/label[4]"}
+  (Session info: chrome=88.0.4324.182)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 2fa1787ce5e671ea6279b41dfb4f422f
+2021-02-24 17:52:10,916-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(69) - 点击下一步执行失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="chooseClass "]/div[3]/button"}
+  (Session info: chrome=88.0.4324.182)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 2fa1787ce5e671ea6279b41dfb4f422f

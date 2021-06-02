@@ -1,0 +1,692 @@
+2021-03-08 14:14:01,570-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:14:01,575-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:14:07,606-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-shop.huanyujun.com/#/login
+2021-03-08 14:14:13,988-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:14:30,149-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(32) - 登录页面切换语言失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"//*[@id="selecy-language"]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 01b650bcbe7f57949ff825f465448696
+2021-03-08 14:14:40,181-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(46) - 登录页面切换繁体失败
+2021-03-08 14:14:43,251-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-03-08 14:14:43,251-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0973638434
+2021-03-08 14:14:48,357-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-03-08 14:14:48,357-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-03-08 14:14:51,458-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-03-08 14:14:54,509-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-03-08 14:14:57,557-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-03-08 14:15:00,607-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-03-08 14:15:03,658-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Livebroadcast(16) - 点击直播执行成功
+2021-03-08 14:15:06,704-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-03-08 14:15:06,704-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zhiboceshi001
+2021-03-08 14:15:09,885-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsName(15) - 输入直播商品名称成功
+2021-03-08 14:15:22,114-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsType(34) - 选择直播商品类型成功
+2021-03-08 14:15:22,114-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 1
+2021-03-08 14:15:28,210-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsPrice(50) - 输入商品单价成功
+2021-03-08 14:15:28,210-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 10
+2021-03-08 14:15:34,308-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsStock(65) - 输入商品库存成功
+2021-03-08 14:15:37,363-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsRecommend(80) - 推荐到机构首页选择成功
+2021-03-08 14:15:40,406-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsLanguages(96) - 选择授课语种成功
+2021-03-08 14:15:43,456-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsCrowd(111) - 选择适应人群成功
+2021-03-08 14:15:46,500-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsPattern(127) - 选择上课模式成功
+2021-03-08 14:15:49,577-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsOnenext(143) - 点击直播第一页的下一步成功
+2021-03-08 14:15:52,621-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.ChooseTeache(15) - 点击选择老师按钮成功
+2021-03-08 14:15:55,664-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.SelectTeacher(30) - 点击弹窗中的单选框，选择老师成功
+2021-03-08 14:15:58,720-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.ChooseTeacheConfirm(42) - 点击选择老师弹窗中的确定按钮成功
+2021-03-08 14:16:04,982-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.SystemPicture(21) - 选择系统图片成功
+2021-03-08 14:16:08,066-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.Tailoring(33) - 点击剪裁弹窗上的确定按钮成功
+2021-03-08 14:16:08,066-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.ClickPhoto(18) - 点击上传图片框成功
+2021-03-08 14:16:08,066-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zhiboceshi00000001
+2021-03-08 14:16:11,159-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.Goodsdescribe(31) - 输入商品描述成功
+2021-03-08 14:16:12,245-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.TwoNext(46) - 点击第二页的下一步失败org.openqa.selenium.WebDriverException: element click intercepted: Element <button data-v-223c8a98="" type="button" class="el-button ambow-btn-save el-button--default">...</button> is not clickable at point (945, 906). Other element would receive the click: <div class="el-loading-mask is-fullscreen el-loading-fade-leave-active el-loading-fade-leave-to" style="z-index: 2016;">...</div>
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.07 seconds
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 01b650bcbe7f57949ff825f465448696
+2021-03-08 14:16:22,301-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveUploadPage.LiveNewunit(16) - 点击新增单元失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="pane-3"]/div/div[1]/button[1]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 01b650bcbe7f57949ff825f465448696
+2021-03-08 14:16:32,331-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveUploadPage.LiveNewcourses(30) - 点击新增课程失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="pane-3"]/div/div[2]/div[1]/div/div[1]/div[1]/span[2]/span[2]/span/i[1]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 01b650bcbe7f57949ff825f465448696
+2021-03-08 14:16:42,355-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveUploadPage.LiveReleaseButton(43) - 点击发布商品成功org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="pane-3"]/div/div[3]/button[2]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 01b650bcbe7f57949ff825f465448696
+2021-03-08 14:16:45,532-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:16:45,533-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:16:51,537-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-admin.huanyujun.com/#/login
+2021-03-08 14:16:52,955-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:16:59,072-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - renwenbo
+2021-03-08 14:17:02,222-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminusername(126) - 运营端输入账号成功
+2021-03-08 14:17:02,223-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - Ambow99999999
+2021-03-08 14:17:05,385-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminpassword(139) - 运营端输入密码成功
+2021-03-08 14:17:08,433-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.AdminLoginButton(151) - 运营端点击登录成功
+2021-03-08 14:17:08,433-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zhiboceshi001
+2021-03-08 14:17:11,496-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityManagement(19) - 运营端点击左侧菜单商品管理成功
+2021-03-08 14:17:11,584-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityAudit(32) - 运营端点击左侧菜单商品管理-商品审核成功
+2021-03-08 14:17:17,754-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchName(47) - 商品审核搜索输入框输入成功
+2021-03-08 14:17:20,808-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchButton(60) - 商品审核点击查询成功
+2021-03-08 14:17:30,852-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.Approved(75) - 商品审核点击审核通过失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="iframe-box"]/div[1]/div/div/div[2]/div[4]/div[2]/table/tbody/tr[1]/td[11]/div/button[2]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: badffa6ff946376b76de3ce5407a97ef
+2021-03-08 14:17:40,861-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.ApprovedDetermine(88) - 商品审核审核通过点击弹窗商确定按钮失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div[3]/button[2]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: badffa6ff946376b76de3ce5407a97ef
+2021-03-08 14:17:43,820-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:17:43,820-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:17:49,823-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-shop.huanyujun.com/#/login
+2021-03-08 14:17:51,353-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:18:07,611-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(32) - 登录页面切换语言失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"//*[@id="selecy-language"]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 21df31a103465a06f94e0cbb65412a38
+2021-03-08 14:18:17,641-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(46) - 登录页面切换繁体失败
+2021-03-08 14:18:20,694-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-03-08 14:18:20,694-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0973638434
+2021-03-08 14:18:25,792-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-03-08 14:18:25,792-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-03-08 14:18:28,875-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-03-08 14:18:31,929-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-03-08 14:18:34,998-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-03-08 14:18:38,045-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-03-08 14:18:41,093-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Video(29) - 点击录播执行成功
+2021-03-08 14:18:44,138-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-03-08 14:18:44,138-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - luboceshi001
+2021-03-08 14:18:47,313-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsName(15) - 输入直播商品名称成功
+2021-03-08 14:18:59,524-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsType(34) - 选择直播商品类型成功
+2021-03-08 14:18:59,524-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 1
+2021-03-08 14:19:05,613-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsPrice(50) - 输入商品单价成功
+2021-03-08 14:19:05,613-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 100
+2021-03-08 14:19:11,722-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsStock(65) - 输入商品库存成功
+2021-03-08 14:19:14,771-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsRecommend(80) - 推荐到机构首页选择成功
+2021-03-08 14:19:17,821-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsLanguages(96) - 选择授课语种成功
+2021-03-08 14:19:20,880-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsCrowd(111) - 选择适应人群成功
+2021-03-08 14:19:23,959-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsPattern(127) - 选择上课模式成功
+2021-03-08 14:19:27,068-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsOnenext(143) - 点击直播第一页的下一步成功
+2021-03-08 14:19:34,463-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.ChooseTeache(15) - 点击选择老师按钮成功
+2021-03-08 14:19:37,520-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.SelectTeacher(30) - 点击弹窗中的单选框，选择老师成功
+2021-03-08 14:19:40,580-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.ChooseTeacheConfirm(42) - 点击选择老师弹窗中的确定按钮成功
+2021-03-08 14:19:46,643-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.SystemPicture(21) - 选择系统图片成功
+2021-03-08 14:19:49,833-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.Tailoring(33) - 点击剪裁弹窗上的确定按钮成功
+2021-03-08 14:19:49,833-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.ClickPhoto(18) - 点击上传图片框成功
+2021-03-08 14:19:49,833-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - luboceshi00000001
+2021-03-08 14:19:52,941-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.Goodsdescribe(31) - 输入商品描述成功
+2021-03-08 14:19:56,031-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.TwoNext(44) - 点击第二页的下一步成功
+2021-03-08 14:19:59,568-[SeleniumAutoFile] INFO [main] com.page.goodsvideo.Hyj_VideoUploadPage.VideoNewunit(15) - 点击新增单元成功
+2021-03-08 14:20:02,648-[SeleniumAutoFile] INFO [main] com.page.goodsvideo.Hyj_VideoUploadPage.VideoNewcourses(28) - 点击新增课程成功
+2021-03-08 14:20:05,699-[SeleniumAutoFile] INFO [main] com.page.goodsvideo.Hyj_VideoUploadPage.VideoReleaseButton(41) - 点击发布商品成功
+2021-03-08 14:20:12,434-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:20:12,434-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:20:18,438-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-admin.huanyujun.com/#/login
+2021-03-08 14:20:19,662-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:20:25,777-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - renwenbo
+2021-03-08 14:20:28,852-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminusername(126) - 运营端输入账号成功
+2021-03-08 14:20:28,852-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - Ambow99999999
+2021-03-08 14:20:31,952-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminpassword(139) - 运营端输入密码成功
+2021-03-08 14:20:35,000-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.AdminLoginButton(151) - 运营端点击登录成功
+2021-03-08 14:20:35,000-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - luboceshi001
+2021-03-08 14:20:38,054-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityManagement(19) - 运营端点击左侧菜单商品管理成功
+2021-03-08 14:20:38,113-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityAudit(32) - 运营端点击左侧菜单商品管理-商品审核成功
+2021-03-08 14:20:44,262-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchName(47) - 商品审核搜索输入框输入成功
+2021-03-08 14:20:47,310-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchButton(60) - 商品审核点击查询成功
+2021-03-08 14:20:50,365-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.Approved(73) - 商品审核点击审核通过成功
+2021-03-08 14:20:53,408-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.ApprovedDetermine(86) - 商品审核审核通过点击弹窗商确定按钮成功
+2021-03-08 14:20:56,226-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:20:56,227-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:21:02,230-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-shop.huanyujun.com/#/login
+2021-03-08 14:21:04,318-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:21:20,467-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(32) - 登录页面切换语言失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"//*[@id="selecy-language"]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 10d01c256531f23bf8c688d759ec3858
+2021-03-08 14:21:30,520-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(46) - 登录页面切换繁体失败
+2021-03-08 14:21:33,592-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-03-08 14:21:33,592-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0973638434
+2021-03-08 14:21:38,697-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-03-08 14:21:38,697-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-03-08 14:21:41,788-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-03-08 14:21:44,841-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-03-08 14:21:47,889-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-03-08 14:21:50,937-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-03-08 14:21:53,983-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-03-08 14:21:57,023-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-03-08 14:21:57,023-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - //*[@id="iframe-box"]/div[1]/div/div/form/div[1]/div/label[1]/span[1]/span
+2021-03-08 14:22:10,067-[SeleniumAutoFile] INFO [main] com.business.Hyj_ConsultantlnformationBusiness.ConsultantInformation(23) - false
+2021-03-08 14:22:10,067-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - //*[@id="iframe-box"]/div[1]/div/div/form/div[1]/div/label[1]/span[1]/span
+2021-03-08 14:22:23,084-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zixunceshi001
+2021-03-08 14:22:26,183-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsName(22) - 输入咨询商品名称成功
+2021-03-08 14:22:26,183-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 1
+2021-03-08 14:22:32,268-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsPrice(40) - 输入咨询商品单价成功
+2021-03-08 14:22:32,268-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 10
+2021-03-08 14:22:35,322-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsStock(57) - 输入咨询商品单价成功
+2021-03-08 14:22:38,367-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsRecommend(72) - 点击咨询商品推荐到首页成功
+2021-03-08 14:22:41,419-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsNextStep(87) - 点击咨询商品下一步成功
+2021-03-08 14:22:47,465-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.SystemPicture(21) - 选择系统图片成功
+2021-03-08 14:22:50,504-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsUploadPictures(105) - 点击咨询上传图片框成功
+2021-03-08 14:22:50,504-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zixunceshi00000001
+2021-03-08 14:22:53,691-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsDescribe(120) - 输入咨询商品描述成功
+2021-03-08 14:22:56,742-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsRelease(135) - 点击咨询商品发布成功
+2021-03-08 14:22:59,853-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:22:59,853-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:23:05,858-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-admin.huanyujun.com/#/login
+2021-03-08 14:23:07,166-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:23:13,286-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - renwenbo
+2021-03-08 14:23:16,396-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminusername(126) - 运营端输入账号成功
+2021-03-08 14:23:16,396-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - Ambow99999999
+2021-03-08 14:23:19,487-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminpassword(139) - 运营端输入密码成功
+2021-03-08 14:23:22,533-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.AdminLoginButton(151) - 运营端点击登录成功
+2021-03-08 14:23:22,533-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zixunceshi001
+2021-03-08 14:23:25,584-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityManagement(19) - 运营端点击左侧菜单商品管理成功
+2021-03-08 14:23:25,640-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityAudit(32) - 运营端点击左侧菜单商品管理-商品审核成功
+2021-03-08 14:23:31,782-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchName(47) - 商品审核搜索输入框输入成功
+2021-03-08 14:23:34,832-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchButton(60) - 商品审核点击查询成功
+2021-03-08 14:23:37,887-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.Approved(73) - 商品审核点击审核通过成功
+2021-03-08 14:23:40,930-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.ApprovedDetermine(86) - 商品审核审核通过点击弹窗商确定按钮成功
+2021-03-08 14:24:13,993-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:24:13,995-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:24:19,999-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-shop.huanyujun.com/#/login
+2021-03-08 14:24:21,485-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:24:37,648-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(32) - 登录页面切换语言失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"//*[@id="selecy-language"]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 14688c052aff10a260b9a964eaa27587
+2021-03-08 14:24:47,661-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(46) - 登录页面切换繁体失败
+2021-03-08 14:24:50,727-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-03-08 14:24:50,727-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0973638434
+2021-03-08 14:24:55,830-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-03-08 14:24:55,830-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-03-08 14:24:58,922-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-03-08 14:25:01,978-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-03-08 14:25:05,026-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-03-08 14:25:08,074-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-03-08 14:25:11,116-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Livebroadcast(16) - 点击直播执行成功
+2021-03-08 14:25:14,159-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-03-08 14:25:14,160-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zhiboceshi001
+2021-03-08 14:25:17,355-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsName(15) - 输入直播商品名称成功
+2021-03-08 14:25:29,584-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsType(34) - 选择直播商品类型成功
+2021-03-08 14:25:29,584-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 1
+2021-03-08 14:25:35,681-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsPrice(50) - 输入商品单价成功
+2021-03-08 14:25:35,681-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 10
+2021-03-08 14:25:41,788-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsStock(65) - 输入商品库存成功
+2021-03-08 14:25:44,844-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsRecommend(80) - 推荐到机构首页选择成功
+2021-03-08 14:25:47,888-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsLanguages(96) - 选择授课语种成功
+2021-03-08 14:25:50,936-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsCrowd(111) - 选择适应人群成功
+2021-03-08 14:25:53,978-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsPattern(127) - 选择上课模式成功
+2021-03-08 14:25:57,053-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsOnenext(143) - 点击直播第一页的下一步成功
+2021-03-08 14:26:00,099-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.ChooseTeache(15) - 点击选择老师按钮成功
+2021-03-08 14:26:03,152-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.SelectTeacher(30) - 点击弹窗中的单选框，选择老师成功
+2021-03-08 14:26:06,206-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.ChooseTeacheConfirm(42) - 点击选择老师弹窗中的确定按钮成功
+2021-03-08 14:26:12,255-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.SystemPicture(21) - 选择系统图片成功
+2021-03-08 14:26:15,296-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.Tailoring(33) - 点击剪裁弹窗上的确定按钮成功
+2021-03-08 14:26:15,296-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.ClickPhoto(18) - 点击上传图片框成功
+2021-03-08 14:26:15,296-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zhiboceshi00000001
+2021-03-08 14:26:18,385-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.Goodsdescribe(31) - 输入商品描述成功
+2021-03-08 14:26:21,447-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.TwoNext(44) - 点击第二页的下一步成功
+2021-03-08 14:26:24,490-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveUploadPage.LiveNewunit(14) - 点击新增单元成功
+2021-03-08 14:26:27,543-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveUploadPage.LiveNewcourses(28) - 点击新增课程成功
+2021-03-08 14:26:30,614-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveUploadPage.LiveReleaseButton(41) - 点击发布商品成功
+2021-03-08 14:26:33,478-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:26:33,478-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:26:39,481-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-admin.huanyujun.com/#/login
+2021-03-08 14:26:49,173-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:26:55,290-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - renwenbo
+2021-03-08 14:26:58,402-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminusername(126) - 运营端输入账号成功
+2021-03-08 14:26:58,402-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - Ambow99999999
+2021-03-08 14:27:01,488-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminpassword(139) - 运营端输入密码成功
+2021-03-08 14:27:04,539-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.AdminLoginButton(151) - 运营端点击登录成功
+2021-03-08 14:27:04,539-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zhiboceshi001
+2021-03-08 14:27:07,590-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityManagement(19) - 运营端点击左侧菜单商品管理成功
+2021-03-08 14:27:07,649-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityAudit(32) - 运营端点击左侧菜单商品管理-商品审核成功
+2021-03-08 14:27:13,794-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchName(47) - 商品审核搜索输入框输入成功
+2021-03-08 14:27:16,842-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchButton(60) - 商品审核点击查询成功
+2021-03-08 14:27:19,889-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.Approved(73) - 商品审核点击审核通过成功
+2021-03-08 14:27:22,934-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.ApprovedDetermine(86) - 商品审核审核通过点击弹窗商确定按钮成功
+2021-03-08 14:27:29,664-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:27:29,664-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:27:35,667-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-shop.huanyujun.com/#/login
+2021-03-08 14:27:50,479-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:28:06,655-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(32) - 登录页面切换语言失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"//*[@id="selecy-language"]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 5a13c44458fb07d38cc2b6b48d794e9c
+2021-03-08 14:28:16,707-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(46) - 登录页面切换繁体失败
+2021-03-08 14:28:19,769-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-03-08 14:28:19,769-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0973638434
+2021-03-08 14:28:24,894-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-03-08 14:28:24,894-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-03-08 14:28:27,989-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-03-08 14:28:31,041-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-03-08 14:28:34,090-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-03-08 14:28:37,140-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-03-08 14:28:40,180-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Video(29) - 点击录播执行成功
+2021-03-08 14:28:43,232-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-03-08 14:28:43,232-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - luboceshi001
+2021-03-08 14:28:46,398-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsName(15) - 输入直播商品名称成功
+2021-03-08 14:28:47,465-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsType(36) - 选择直播商品类型失败org.openqa.selenium.WebDriverException: element click intercepted: Element <input type="text" autocomplete="off" placeholder="请选择商品类型" class="el-input__inner"> is not clickable at point (1014, 232). Other element would receive the click: <div class="el-loading-mask is-fullscreen" style="background-color: rgba(0, 0, 0, 0.8); z-index: 2003;">...</div>
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.06 seconds
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 5a13c44458fb07d38cc2b6b48d794e9c
+2021-03-08 14:28:47,466-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 1
+2021-03-08 14:28:53,561-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsPrice(50) - 输入商品单价成功
+2021-03-08 14:28:53,561-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 100
+2021-03-08 14:28:59,687-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsStock(65) - 输入商品库存成功
+2021-03-08 14:29:02,742-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsRecommend(80) - 推荐到机构首页选择成功
+2021-03-08 14:29:05,789-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsLanguages(96) - 选择授课语种成功
+2021-03-08 14:29:08,831-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsCrowd(111) - 选择适应人群成功
+2021-03-08 14:29:11,879-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsPattern(127) - 选择上课模式成功
+2021-03-08 14:29:14,938-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsOnenext(143) - 点击直播第一页的下一步成功
+2021-03-08 14:29:24,987-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.ChooseTeache(17) - 点击选择老师按钮失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="pane-2"]/div/div[1]/button[2]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 5a13c44458fb07d38cc2b6b48d794e9c
+2021-03-08 14:29:35,001-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.SelectTeacher(32) - 点击弹窗中的单选框，选择老师失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="pane-2"]/div/div[6]/div/div[2]/div[1]/div[3]/table/tbody/tr/td[1]/div/label/span/span"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 5a13c44458fb07d38cc2b6b48d794e9c
+2021-03-08 14:29:45,018-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.ChooseTeacheConfirm(44) - 点击选择老师弹窗中的确定按钮失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="pane-2"]/div/div[6]/div/div[2]/div[2]/button"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 5a13c44458fb07d38cc2b6b48d794e9c
+2021-03-08 14:29:55,035-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.ClickPhoto(20) - 点击上传图片框失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="pane-2"]/div/form/div[1]/div/div/div[1]/div"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 5a13c44458fb07d38cc2b6b48d794e9c
+2021-03-08 14:29:55,035-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - luboceshi00000001
+2021-03-08 14:30:05,057-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.Goodsdescribe(33) - 输入商品描述失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="myEditor"]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 5a13c44458fb07d38cc2b6b48d794e9c
+2021-03-08 14:30:15,080-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.TwoNext(46) - 点击第二页的下一步失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="pane-2"]/div/div[5]/div/button[2]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 5a13c44458fb07d38cc2b6b48d794e9c
+2021-03-08 14:30:25,115-[SeleniumAutoFile] INFO [main] com.page.goodsvideo.Hyj_VideoUploadPage.VideoNewunit(17) - 点击新增单元失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="pane-3"]/div/div[1]/button"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 5a13c44458fb07d38cc2b6b48d794e9c
+2021-03-08 14:30:35,121-[SeleniumAutoFile] INFO [main] com.page.goodsvideo.Hyj_VideoUploadPage.VideoNewcourses(30) - 点击新增课程失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="pane-3"]/div/div[2]/div[1]/div/div[1]/div/span[2]/span[2]/span/i[1]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 5a13c44458fb07d38cc2b6b48d794e9c
+2021-03-08 14:30:45,173-[SeleniumAutoFile] INFO [main] com.page.goodsvideo.Hyj_VideoUploadPage.VideoReleaseButton(43) - 点击发布商品成功org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="pane-3"]/div/div[3]/button[2]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 5a13c44458fb07d38cc2b6b48d794e9c
+2021-03-08 14:30:51,839-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:30:51,839-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:30:57,842-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-admin.huanyujun.com/#/login
+2021-03-08 14:30:59,109-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:31:05,226-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - renwenbo
+2021-03-08 14:31:08,341-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminusername(126) - 运营端输入账号成功
+2021-03-08 14:31:08,341-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - Ambow99999999
+2021-03-08 14:31:11,431-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminpassword(139) - 运营端输入密码成功
+2021-03-08 14:31:14,477-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.AdminLoginButton(151) - 运营端点击登录成功
+2021-03-08 14:31:14,477-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - luboceshi001
+2021-03-08 14:31:17,531-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityManagement(19) - 运营端点击左侧菜单商品管理成功
+2021-03-08 14:31:17,591-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityAudit(32) - 运营端点击左侧菜单商品管理-商品审核成功
+2021-03-08 14:31:23,741-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchName(47) - 商品审核搜索输入框输入成功
+2021-03-08 14:31:26,791-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchButton(60) - 商品审核点击查询成功
+2021-03-08 14:31:36,845-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.Approved(75) - 商品审核点击审核通过失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="iframe-box"]/div[1]/div/div/div[2]/div[4]/div[2]/table/tbody/tr[1]/td[11]/div/button[2]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: f286107a313378f9ff2105f132a035f1
+2021-03-08 14:31:46,871-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.ApprovedDetermine(88) - 商品审核审核通过点击弹窗商确定按钮失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div[3]/button[2]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: f286107a313378f9ff2105f132a035f1
+2021-03-08 14:31:53,552-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:31:53,552-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:31:59,556-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-shop.huanyujun.com/#/login
+2021-03-08 14:32:01,284-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:32:17,442-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(32) - 登录页面切换语言失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"//*[@id="selecy-language"]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 8217d57e0f691068f65792c825e520bc
+2021-03-08 14:32:27,454-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(46) - 登录页面切换繁体失败
+2021-03-08 14:32:30,519-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-03-08 14:32:30,519-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0973638434
+2021-03-08 14:32:35,624-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-03-08 14:32:35,624-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-03-08 14:32:38,712-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-03-08 14:32:41,762-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-03-08 14:32:44,811-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-03-08 14:32:47,875-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-03-08 14:32:50,923-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-03-08 14:32:53,965-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-03-08 14:32:53,965-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - //*[@id="iframe-box"]/div[1]/div/div/form/div[1]/div/label[1]/span[1]/span
+2021-03-08 14:33:06,975-[SeleniumAutoFile] INFO [main] com.business.Hyj_ConsultantlnformationBusiness.ConsultantInformation(23) - false
+2021-03-08 14:33:06,975-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - //*[@id="iframe-box"]/div[1]/div/div/form/div[1]/div/label[1]/span[1]/span
+2021-03-08 14:33:19,993-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zixunceshi001
+2021-03-08 14:33:23,124-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsName(22) - 输入咨询商品名称成功
+2021-03-08 14:33:23,124-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 1
+2021-03-08 14:33:29,208-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsPrice(40) - 输入咨询商品单价成功
+2021-03-08 14:33:29,208-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 10
+2021-03-08 14:33:32,266-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsStock(57) - 输入咨询商品单价成功
+2021-03-08 14:33:35,317-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsRecommend(72) - 点击咨询商品推荐到首页成功
+2021-03-08 14:33:38,368-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsNextStep(87) - 点击咨询商品下一步成功
+2021-03-08 14:33:44,414-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.SystemPicture(21) - 选择系统图片成功
+2021-03-08 14:33:47,470-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsUploadPictures(105) - 点击咨询上传图片框成功
+2021-03-08 14:33:47,470-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zixunceshi00000001
+2021-03-08 14:33:50,658-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsDescribe(120) - 输入咨询商品描述成功
+2021-03-08 14:33:53,713-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsRelease(135) - 点击咨询商品发布成功
+2021-03-08 14:33:57,718-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:33:57,718-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:34:03,721-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-admin.huanyujun.com/#/login
+2021-03-08 14:34:04,824-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:34:10,937-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - renwenbo
+2021-03-08 14:34:14,044-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminusername(126) - 运营端输入账号成功
+2021-03-08 14:34:14,044-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - Ambow99999999
+2021-03-08 14:34:17,137-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminpassword(139) - 运营端输入密码成功
+2021-03-08 14:34:20,184-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.AdminLoginButton(151) - 运营端点击登录成功
+2021-03-08 14:34:20,184-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zixunceshi001
+2021-03-08 14:34:23,239-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityManagement(19) - 运营端点击左侧菜单商品管理成功
+2021-03-08 14:34:23,298-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityAudit(32) - 运营端点击左侧菜单商品管理-商品审核成功
+2021-03-08 14:34:29,468-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchName(47) - 商品审核搜索输入框输入成功
+2021-03-08 14:34:32,515-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchButton(60) - 商品审核点击查询成功
+2021-03-08 14:34:35,569-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.Approved(73) - 商品审核点击审核通过成功
+2021-03-08 14:34:38,612-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.ApprovedDetermine(86) - 商品审核审核通过点击弹窗商确定按钮成功
+2021-03-08 14:35:30,490-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:35:30,493-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:35:36,499-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-shop.huanyujun.com/#/login
+2021-03-08 14:35:38,825-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:35:54,985-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(32) - 登录页面切换语言失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"//*[@id="selecy-language"]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 1e4d56b75e4fe03e7b3eb6c3f9a19ee6
+2021-03-08 14:36:05,006-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(46) - 登录页面切换繁体失败
+2021-03-08 14:36:08,071-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-03-08 14:36:08,071-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0973638434
+2021-03-08 14:36:13,166-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-03-08 14:36:13,166-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-03-08 14:36:16,261-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-03-08 14:36:19,309-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-03-08 14:36:22,358-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-03-08 14:36:25,406-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-03-08 14:36:28,471-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Livebroadcast(16) - 点击直播执行成功
+2021-03-08 14:36:31,515-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-03-08 14:36:31,516-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zhiboceshi001
+2021-03-08 14:36:34,698-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsName(15) - 输入直播商品名称成功
+2021-03-08 14:36:46,918-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsType(34) - 选择直播商品类型成功
+2021-03-08 14:36:46,919-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 1
+2021-03-08 14:36:53,008-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsPrice(50) - 输入商品单价成功
+2021-03-08 14:36:53,008-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 10
+2021-03-08 14:36:59,106-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsStock(65) - 输入商品库存成功
+2021-03-08 14:37:02,159-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsRecommend(80) - 推荐到机构首页选择成功
+2021-03-08 14:37:05,201-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsLanguages(96) - 选择授课语种成功
+2021-03-08 14:37:08,250-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsCrowd(111) - 选择适应人群成功
+2021-03-08 14:37:11,291-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsPattern(127) - 选择上课模式成功
+2021-03-08 14:37:14,373-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsOnenext(143) - 点击直播第一页的下一步成功
+2021-03-08 14:37:17,418-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.ChooseTeache(15) - 点击选择老师按钮成功
+2021-03-08 14:37:20,467-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.SelectTeacher(30) - 点击弹窗中的单选框，选择老师成功
+2021-03-08 14:37:23,521-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.ChooseTeacheConfirm(42) - 点击选择老师弹窗中的确定按钮成功
+2021-03-08 14:37:29,572-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.SystemPicture(21) - 选择系统图片成功
+2021-03-08 14:37:32,619-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.Tailoring(33) - 点击剪裁弹窗上的确定按钮成功
+2021-03-08 14:37:32,619-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.ClickPhoto(18) - 点击上传图片框成功
+2021-03-08 14:37:32,619-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zhiboceshi00000001
+2021-03-08 14:37:35,692-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.Goodsdescribe(31) - 输入商品描述成功
+2021-03-08 14:37:38,755-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.TwoNext(44) - 点击第二页的下一步成功
+2021-03-08 14:37:41,796-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveUploadPage.LiveNewunit(14) - 点击新增单元成功
+2021-03-08 14:37:44,847-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveUploadPage.LiveNewcourses(28) - 点击新增课程成功
+2021-03-08 14:37:47,889-[SeleniumAutoFile] INFO [main] com.page.goodslive.Hyj_LiveUploadPage.LiveReleaseButton(41) - 点击发布商品成功
+2021-03-08 14:37:50,806-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:37:50,806-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:37:56,809-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-admin.huanyujun.com/#/login
+2021-03-08 14:37:57,759-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:38:03,883-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - renwenbo
+2021-03-08 14:38:06,964-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminusername(126) - 运营端输入账号成功
+2021-03-08 14:38:06,964-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - Ambow99999999
+2021-03-08 14:38:10,050-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminpassword(139) - 运营端输入密码成功
+2021-03-08 14:38:13,097-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.AdminLoginButton(151) - 运营端点击登录成功
+2021-03-08 14:38:13,097-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zhiboceshi001
+2021-03-08 14:38:16,152-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityManagement(19) - 运营端点击左侧菜单商品管理成功
+2021-03-08 14:38:16,211-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityAudit(32) - 运营端点击左侧菜单商品管理-商品审核成功
+2021-03-08 14:38:22,367-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchName(47) - 商品审核搜索输入框输入成功
+2021-03-08 14:38:25,415-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchButton(60) - 商品审核点击查询成功
+2021-03-08 14:38:28,468-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.Approved(73) - 商品审核点击审核通过成功
+2021-03-08 14:38:31,509-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.ApprovedDetermine(86) - 商品审核审核通过点击弹窗商确定按钮成功
+2021-03-08 14:38:38,191-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:38:38,191-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:38:44,195-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-shop.huanyujun.com/#/login
+2021-03-08 14:38:45,781-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:39:01,950-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(32) - 登录页面切换语言失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"//*[@id="selecy-language"]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 9bf2b99bacb15977a0e4dc21239d4ac3
+2021-03-08 14:39:11,962-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(46) - 登录页面切换繁体失败
+2021-03-08 14:39:15,024-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-03-08 14:39:15,024-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0973638434
+2021-03-08 14:39:20,131-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-03-08 14:39:20,132-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-03-08 14:39:23,224-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-03-08 14:39:26,288-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-03-08 14:39:29,335-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-03-08 14:39:32,383-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-03-08 14:39:35,429-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Video(29) - 点击录播执行成功
+2021-03-08 14:39:38,476-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-03-08 14:39:38,476-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - luboceshi001
+2021-03-08 14:39:41,658-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsName(15) - 输入直播商品名称成功
+2021-03-08 14:39:53,881-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsType(34) - 选择直播商品类型成功
+2021-03-08 14:39:53,881-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 1
+2021-03-08 14:39:59,968-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsPrice(50) - 输入商品单价成功
+2021-03-08 14:39:59,968-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 100
+2021-03-08 14:40:06,087-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsStock(65) - 输入商品库存成功
+2021-03-08 14:40:09,143-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsRecommend(80) - 推荐到机构首页选择成功
+2021-03-08 14:40:12,188-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsLanguages(96) - 选择授课语种成功
+2021-03-08 14:40:15,233-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsCrowd(111) - 选择适应人群成功
+2021-03-08 14:40:18,277-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsPattern(127) - 选择上课模式成功
+2021-03-08 14:40:21,351-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsPublicPage.GoodsOnenext(143) - 点击直播第一页的下一步成功
+2021-03-08 14:40:24,396-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.ChooseTeache(15) - 点击选择老师按钮成功
+2021-03-08 14:40:27,439-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.SelectTeacher(30) - 点击弹窗中的单选框，选择老师成功
+2021-03-08 14:40:30,492-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsTeachePage.ChooseTeacheConfirm(42) - 点击选择老师弹窗中的确定按钮成功
+2021-03-08 14:40:36,540-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.SystemPicture(21) - 选择系统图片成功
+2021-03-08 14:40:39,582-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.Tailoring(33) - 点击剪裁弹窗上的确定按钮成功
+2021-03-08 14:40:39,582-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.ClickPhoto(18) - 点击上传图片框成功
+2021-03-08 14:40:39,582-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - luboceshi00000001
+2021-03-08 14:40:42,673-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.Goodsdescribe(31) - 输入商品描述成功
+2021-03-08 14:40:45,731-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_GoodsDescriptionPage.TwoNext(44) - 点击第二页的下一步成功
+2021-03-08 14:40:48,772-[SeleniumAutoFile] INFO [main] com.page.goodsvideo.Hyj_VideoUploadPage.VideoNewunit(15) - 点击新增单元成功
+2021-03-08 14:40:51,851-[SeleniumAutoFile] INFO [main] com.page.goodsvideo.Hyj_VideoUploadPage.VideoNewcourses(28) - 点击新增课程成功
+2021-03-08 14:40:54,895-[SeleniumAutoFile] INFO [main] com.page.goodsvideo.Hyj_VideoUploadPage.VideoReleaseButton(41) - 点击发布商品成功
+2021-03-08 14:40:57,341-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:40:57,341-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:41:03,346-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-admin.huanyujun.com/#/login
+2021-03-08 14:41:04,424-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:41:10,543-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - renwenbo
+2021-03-08 14:41:13,654-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminusername(126) - 运营端输入账号成功
+2021-03-08 14:41:13,654-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - Ambow99999999
+2021-03-08 14:41:16,746-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminpassword(139) - 运营端输入密码成功
+2021-03-08 14:41:19,793-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.AdminLoginButton(151) - 运营端点击登录成功
+2021-03-08 14:41:19,793-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - luboceshi001
+2021-03-08 14:41:22,846-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityManagement(19) - 运营端点击左侧菜单商品管理成功
+2021-03-08 14:41:22,903-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityAudit(32) - 运营端点击左侧菜单商品管理-商品审核成功
+2021-03-08 14:41:29,042-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchName(47) - 商品审核搜索输入框输入成功
+2021-03-08 14:41:32,091-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchButton(60) - 商品审核点击查询成功
+2021-03-08 14:41:35,147-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.Approved(73) - 商品审核点击审核通过成功
+2021-03-08 14:41:38,186-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.ApprovedDetermine(86) - 商品审核审核通过点击弹窗商确定按钮成功
+2021-03-08 14:41:40,997-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:41:40,997-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:41:47,000-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-shop.huanyujun.com/#/login
+2021-03-08 14:41:48,154-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:42:04,317-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(32) - 登录页面切换语言失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"//*[@id="selecy-language"]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: ccd844421ec10dbaaac198efd0b8e25b
+2021-03-08 14:42:14,374-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(46) - 登录页面切换繁体失败
+2021-03-08 14:42:17,441-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-03-08 14:42:17,441-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0973638434
+2021-03-08 14:42:22,548-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-03-08 14:42:22,548-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-03-08 14:42:25,642-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-03-08 14:42:28,703-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-03-08 14:42:31,751-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-03-08 14:42:34,798-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(46) - 点击左侧商品上架执行成功
+2021-03-08 14:42:37,844-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Consulting(55) - 点击咨询执行成功
+2021-03-08 14:42:40,884-[SeleniumAutoFile] INFO [main] com.page.release.Hyj_GoodsreleasePage.Nextstep(67) - 点击下一步执行成功
+2021-03-08 14:42:40,885-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - //*[@id="iframe-box"]/div[1]/div/div/form/div[1]/div/label[1]/span[1]/span
+2021-03-08 14:42:53,918-[SeleniumAutoFile] INFO [main] com.business.Hyj_ConsultantlnformationBusiness.ConsultantInformation(23) - false
+2021-03-08 14:42:53,919-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - //*[@id="iframe-box"]/div[1]/div/div/form/div[1]/div/label[1]/span[1]/span
+2021-03-08 14:43:06,965-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zixunceshi001
+2021-03-08 14:43:10,080-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsName(22) - 输入咨询商品名称成功
+2021-03-08 14:43:10,080-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 1
+2021-03-08 14:43:16,161-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsPrice(40) - 输入咨询商品单价成功
+2021-03-08 14:43:16,161-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 10
+2021-03-08 14:43:19,214-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsStock(57) - 输入咨询商品单价成功
+2021-03-08 14:43:22,263-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsRecommend(72) - 点击咨询商品推荐到首页成功
+2021-03-08 14:43:25,315-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsNextStep(87) - 点击咨询商品下一步成功
+2021-03-08 14:43:31,365-[SeleniumAutoFile] INFO [main] com.page.goodspublic.Hyj_UploadPicturesPage.SystemPicture(21) - 选择系统图片成功
+2021-03-08 14:43:34,407-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsUploadPictures(105) - 点击咨询上传图片框成功
+2021-03-08 14:43:34,407-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zixunceshi00000001
+2021-03-08 14:43:37,606-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsDescribe(120) - 输入咨询商品描述成功
+2021-03-08 14:43:40,657-[SeleniumAutoFile] INFO [main] com.page.goodsconsultant.Hyj_ConsultantPage.ConsultantGoodsRelease(135) - 点击咨询商品发布成功
+2021-03-08 14:43:44,634-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-08 14:43:44,634-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-08 14:43:50,638-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-admin.huanyujun.com/#/login
+2021-03-08 14:43:51,594-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-08 14:43:57,712-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - renwenbo
+2021-03-08 14:44:00,830-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminusername(126) - 运营端输入账号成功
+2021-03-08 14:44:00,830-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - Ambow99999999
+2021-03-08 14:44:03,950-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Adminpassword(139) - 运营端输入密码成功
+2021-03-08 14:44:06,999-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.AdminLoginButton(151) - 运营端点击登录成功
+2021-03-08 14:44:06,999-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - zixunceshi001
+2021-03-08 14:44:10,053-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityManagement(19) - 运营端点击左侧菜单商品管理成功
+2021-03-08 14:44:10,112-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.CommodityAudit(32) - 运营端点击左侧菜单商品管理-商品审核成功
+2021-03-08 14:44:16,256-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchName(47) - 商品审核搜索输入框输入成功
+2021-03-08 14:44:19,304-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.SearchButton(60) - 商品审核点击查询成功
+2021-03-08 14:44:22,357-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.Approved(73) - 商品审核点击审核通过成功
+2021-03-08 14:44:25,398-[SeleniumAutoFile] INFO [main] com.page.admin.AdminGoodsExaminePage.ApprovedDetermine(86) - 商品审核审核通过点击弹窗商确定按钮成功

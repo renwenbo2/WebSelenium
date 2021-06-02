@@ -1,0 +1,29 @@
+2021-03-10 13:25:47,059-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(37) - runDriver is chrome......
+2021-03-10 13:25:47,063-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(14) - 成功打开谷歌浏览器
+2021-03-10 13:25:53,160-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - https://pre-shop.huanyujun.com/#/login
+2021-03-10 13:25:59,891-[SeleniumAutoFile] INFO [main] com.config.OpenChrome.getchromepre(25) - 成功打开网址
+2021-03-10 13:26:16,064-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Choicelg(32) - 登录页面切换语言失败org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"//*[@id="selecy-language"]"}
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 77bb66d0ec7e0ac10de381bfd7e3db93
+2021-03-10 13:26:26,101-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.Chroictcc(46) - 登录页面切换繁体失败
+2021-03-10 13:26:29,265-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.PasswordSign(15) - 选择密码登录成功
+2021-03-10 13:26:29,265-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 0973638434
+2021-03-10 13:26:34,433-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setUsername(84) - 填写手机号成功
+2021-03-10 13:26:34,434-[SeleniumAutoFile] INFO [main] com.config.TestConfig.getValue(53) - 123456
+2021-03-10 13:26:37,665-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.setPassword(97) - 设置密码成功
+2021-03-10 13:26:40,774-[SeleniumAutoFile] INFO [main] com.page.login.Hyj_LoginPage.clickButton(113) - 点击登录成功
+2021-03-10 13:26:43,836-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsadmin(18) - 点击左侧商品管理执行成功
+2021-03-10 13:26:55,861-[SeleniumAutoFile] INFO [main] com.page.leftmenu.Hyj_LeftmenuPage.LeftGoodsrelease(48) - 点击左侧商品上架执行失败org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12.03 seconds
+Build info: version: '2.26.0', revision: '18041', time: '2012-11-01 19:33:38'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 77bb66d0ec7e0ac10de381bfd7e3db93
